@@ -9,7 +9,7 @@ const AvailablePlayers = ({ playersData }) => {
             {
                 playersData.map((player) =>
 
-                    <div className="card bg-base-100 w-96 shadow-sm">
+                    <div className="card bg-amber-50 w-96 shadow-md">
                         <figure>
                             <img className='w-full h-60'
                                 src={player.playerImage}
@@ -25,10 +25,10 @@ const AvailablePlayers = ({ playersData }) => {
                                 <button className='btn btn-outline'>{player.playerRole}</button>
                             </div>
                             <div className="divider"></div>
-                            <h2>Rating: {player.rating}</h2>
+                            <h2>Rating: ({player.rating})</h2>
                             <div className='flex justify-between items-center'>
                                 <p>{player.battingStyle}</p>
-                                <p>{player.bowlingStyle}</p>
+                                <p className='text-right'>{player.bowlingStyle}</p>
 
                             </div>
 
