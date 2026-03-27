@@ -1,0 +1,122 @@
+[
+    {
+        "playerImage": "https://i.ibb.co.com/XkFGdDWr/virat.jpg",
+        "playerName": "Virat Kohli",
+        "playerCountry": "India",
+        "playerRole": "Batsman",
+        "rating": 9.8,
+        "playerPrice": 1500000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium"
+    },
+    {
+        "playerImage": "https://i.ibb.co.com/0yh5KNrW/Joe-Root.jpg",
+        "playerName": "Joe Root",
+        "playerCountry": "England",
+        "playerRole": "Batsman",
+        "rating": 9.5,
+        "playerPrice": 1400000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+        "playerImage": "https://i.ibb.co.com/ym9QHJ97/Babar-Azam.jpg",
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "playerRole": "Batsman",
+        "rating": 9.6,
+        "playerPrice": 1450000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+        "playerImage": "https://i.ibb.co.com/Lzk3HJW5/Kane-Williamson.webp",
+        "playerName": "Kane Williamson",
+        "playerCountry": "New Zealand",
+        "playerRole": "Batsman",
+        "rating": 9.4,
+        "playerPrice": 1350000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/5.jpg",
+        "playerName": "Steve Smith",
+        "playerCountry": "Australia",
+        "playerRole": "Batsman",
+        "rating": 9.7,
+        "playerPrice": 1480000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/6.jpg",
+        "playerName": "Ben Stokes",
+        "playerCountry": "England",
+        "playerRole": "All-Rounder",
+        "rating": 9.3,
+        "playerPrice": 1300000,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/7.jpg",
+        "playerName": "Shakib Al Hasan",
+        "playerCountry": "Bangladesh",
+        "playerRole": "All-Rounder",
+        "rating": 9.2,
+        "playerPrice": 1250000,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Slow left-arm orthodox"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/8.jpg",
+        "playerName": "Hardik Pandya",
+        "playerCountry": "India",
+        "playerRole": "All-Rounder",
+        "rating": 8.9,
+        "playerPrice": 1200000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast-medium"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/9.jpg",
+        "playerName": "Jasprit Bumrah",
+        "playerCountry": "India",
+        "playerRole": "Bowler",
+        "rating": 9.6,
+        "playerPrice": 1400000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/10.jpg",
+        "playerName": "Mitchell Starc",
+        "playerCountry": "Australia",
+        "playerRole": "Bowler",
+        "rating": 9.4,
+        "playerPrice": 1380000,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/11.jpg",
+        "playerName": "Trent Boult",
+        "playerCountry": "New Zealand",
+        "playerRole": "Bowler",
+        "rating": 9.3,
+        "playerPrice": 1320000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Left-arm fast-medium"
+    },
+    {
+        "playerImage": "https://randomuser.me/api/portraits/men/12.jpg",
+        "playerName": "Jos Buttler",
+        "playerCountry": "England",
+        "playerRole": "Wicketkeeper",
+        "rating": 9.5,
+        "playerPrice": 1420000,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "None"
+    }
+]
